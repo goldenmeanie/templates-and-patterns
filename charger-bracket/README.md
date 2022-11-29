@@ -3,4 +3,4 @@ I have a few two way radios and the chargers are pretty light and slide around u
 
 I'd like to 3d print these brackets as a flexible system for this kind of task. These are designed around a Baofeng charger but I imagine they'd work for anything kind of similar shaped. We'll see how version one goes!
 
-![plan view vector illustration showing four brackets holding a charger sized block](https://raw.github.dev/goldenmeanie/templates-and-patterns/blob/charger-brackets/charger-bracket.afdesign?sanitize=true)
+![plan view vector illustration showing four brackets holding a charger sized block](charger-bracket-sketch-v1.0.svg)
